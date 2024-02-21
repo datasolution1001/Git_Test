@@ -1,4 +1,3 @@
 # Git_Test
 Preparing for the Git Course
-
-Confilict Mannn
+Good by from this conflict
